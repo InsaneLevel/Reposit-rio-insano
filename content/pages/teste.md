@@ -8,11 +8,10 @@ sections:
       text: Mind Sexta
       color: text-dark
     subtitle: A newsletter Insane Level
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Receba conteúdo valioso de forma exclusiva, aprenda a ter um mindset
+      insano, mente blindada e se junte a mais de 70mil pessoas apenas
+      preenchendo o formulário gratuitamente.
     actions: []
     media:
       type: FormBlock

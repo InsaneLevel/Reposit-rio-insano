@@ -622,7 +622,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-slug: /InsaneMind
+slug: /insanemind
 seo:
   type: Seo
   metaTitle: Home - Demo site

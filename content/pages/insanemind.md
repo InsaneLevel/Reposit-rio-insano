@@ -625,7 +625,7 @@ sections:
 slug: /insanemind
 seo:
   type: Seo
-  metaTitle: Home - Demo site
+  metaTitle: Insaaane Leeevel
   metaDescription: This demo site is built with Netlify Create
   socialImage: /images/main-hero.jpg
   metaTags: []

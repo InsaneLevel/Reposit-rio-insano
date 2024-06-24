@@ -59,7 +59,7 @@ sections:
           altText: Pricing plan 2
         actions:
           - type: Button
-            label: Aceito
+            label: Eu quero
             url: /
             icon: arrowRight
             iconPosition: right

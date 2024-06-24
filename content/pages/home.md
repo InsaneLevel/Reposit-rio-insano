@@ -16,9 +16,10 @@ sections:
         title: Developers
         price: Newsletter
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >+
+          Receba conteúdos **valiosos** gratuitamente toda sexta-feira. Amplie
+          seu conhecimento!
+
         features:
           - Feature one
           - Feature two

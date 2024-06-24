@@ -92,7 +92,7 @@ sections:
           altText: Pricing plan 3
         actions:
           - type: Button
-            label: Contact us
+            label: Quero
             url: /
             icon: arrowRight
             iconPosition: right

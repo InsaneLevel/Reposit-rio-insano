@@ -15,7 +15,7 @@ sections:
       - type: PricingPlan
         title: Developers
         price: Newsletter
-        details: No credit card required
+        details: ''
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.

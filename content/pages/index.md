@@ -103,7 +103,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: Home
+slug: /
 seo:
   type: Seo
   metaTitle: Home Insane Level

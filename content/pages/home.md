@@ -13,7 +13,7 @@ sections:
     subtitle: Seja muito bem vindo ao Insane Level!
     plans:
       - type: PricingPlan
-        title: Developers
+        title: ''
         price: Newsletter
         details: ''
         description: >+

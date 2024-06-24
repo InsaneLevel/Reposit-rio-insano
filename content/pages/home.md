@@ -107,7 +107,7 @@ slug: Home
 seo:
   type: Seo
   metaTitle: Home Insane Level
-  metaDescription: This is the pricing page built with Netlify Create.
+  metaDescription: Essa página é o início do site Insane Level
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---

@@ -73,9 +73,9 @@ sections:
         title: ''
         price: Ebook free
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: >
+          Pegue nosso e-book grátis sobre mindset, aplique na sua vida e veja o
+          **poder** de um mindset **insano**.
         features: []
         image:
           type: ImageBlock

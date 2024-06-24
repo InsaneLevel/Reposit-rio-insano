@@ -56,7 +56,7 @@ sections:
         actions:
           - type: Button
             label: Eu quero
-            url: /
+            url: /insanelevel.xyz/InsaneMind/
             icon: arrowRight
             iconPosition: right
             style: secondary

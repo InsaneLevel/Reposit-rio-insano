@@ -20,7 +20,8 @@ sections:
           Receba conteúdos **valiosos** gratuitamente toda sexta-feira. Amplie
           seu conhecimento!
 
-        features: []
+        features:
+          - ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

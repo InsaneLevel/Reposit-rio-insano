@@ -27,7 +27,7 @@ sections:
           altText: Pricing plan 1
         actions:
           - type: Button
-            label: Eu quero
+            label: Fazer parte
             url: /
             icon: arrowRight
             iconPosition: right

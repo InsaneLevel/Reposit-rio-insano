@@ -51,7 +51,6 @@ sections:
         features:
           - Feature one
           - Feature two
-          - Feature three
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg

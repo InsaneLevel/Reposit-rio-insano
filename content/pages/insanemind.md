@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ter uma mente nível insana nunca foi impossível.
+      text: Ter uma mente nível insana nunca foi impossível
       color: text-dark
     subtitle: Subtitle goes here
     text: >

@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Home
+title: ''
 sections:
   - type: PricingSection
     title:

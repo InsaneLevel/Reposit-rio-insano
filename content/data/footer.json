@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/avatar1.svg",
         "altText": "Logo light",
         "type": "ImageBlock"
     },

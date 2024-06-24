@@ -45,9 +45,9 @@ sections:
         title: ''
         price: InsaneMind
         details: ''
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          **Faça parte de +5000 pessoas e aprenda a chegar ao nível insano em
+          todas as áreas de sua vida.**
         features: []
         image:
           type: ImageBlock

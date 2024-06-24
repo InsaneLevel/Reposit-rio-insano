@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Seja muito bem vindo ao Insane Level!
     plans:
       - type: PricingPlan
         title: Developers

@@ -60,6 +60,7 @@ sections:
             icon: arrowRight
             iconPosition: right
             style: secondary
+            showIcon: true
         colors: bg-neutral-fg-dark
         styles:
           self:

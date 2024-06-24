@@ -8,7 +8,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/sanity-logo.svg"
     },
     "primaryLinks": [
         {

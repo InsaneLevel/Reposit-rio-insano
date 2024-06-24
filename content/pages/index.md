@@ -47,7 +47,7 @@ sections:
         details: ''
         description: >
           **Faça parte de +5000 pessoas e aprenda a chegar ao nível insano em
-          todas as áreas de sua vida.**
+          todas as áreas de sua vida. Clique no botão abaixo:**
         features: []
         image:
           type: ImageBlock

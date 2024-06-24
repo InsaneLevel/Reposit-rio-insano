@@ -47,7 +47,7 @@ sections:
         details: ''
         description: >
           **Faça parte de +5000 pessoas e aprenda a chegar ao nível insano em
-          todas as áreas de sua vida.**
+          todas as áreas de sua vida. Clique no botão abaixo:**
         features: []
         image:
           type: ImageBlock
@@ -56,10 +56,11 @@ sections:
         actions:
           - type: Button
             label: Eu quero
-            url: /insanelevel.xyz/InsaneMind
+            url: insanemind
             icon: arrowRight
             iconPosition: right
             style: secondary
+            showIcon: false
         colors: bg-neutral-fg-dark
         styles:
           self:

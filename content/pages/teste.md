@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Newsletter
+      text: Mind Sexta
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-

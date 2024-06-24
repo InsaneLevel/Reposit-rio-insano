@@ -109,5 +109,6 @@ seo:
   metaTitle: Home Insane Level
   metaDescription: Essa página é o início do site Insane Level
   socialImage: /images/main-hero.jpg
-  metaTags: []
+  metaTags:
+    - type: MetaTag
 ---

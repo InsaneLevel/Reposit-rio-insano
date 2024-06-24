@@ -97,7 +97,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "> **\n>\n> [*Netlify Create*](https://www.netlify.com/platform/create/)\n\n",
+    "copyrightText": "Netlify\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }

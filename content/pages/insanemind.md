@@ -629,5 +629,5 @@ seo:
   metaDescription: This demo site is built with Netlify Create
   socialImage: /images/main-hero.jpg
   metaTags: []
-isDraft: false
+isDraft: true
 ---

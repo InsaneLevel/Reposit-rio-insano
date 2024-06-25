@@ -1,6 +1,6 @@
 ---
 title: n é blog
-slug: /naoumblog
+slug: /nopblog
 numOfPostsPerPage: 12
 enableSearch: true
 topSections:
